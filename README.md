@@ -1,6 +1,25 @@
 # Retail-Delivery-Optimization-Case-Study
 This repository showcases my comprehensive case study analysis focused on optimizing delivery operations for a large retail chain. The project aims to enhance delivery efficiency, reduce costs, and improve customer satisfaction through data-driven insights.
-
+Here's a summary of the key techniques I used in this analysis:
+- Data cleaning 
+It involved handling missing values, outlier detection and removal, and data type conversions.
+Cleaning and formatting of various columns like date and categorical variables to ensure data quality and consistency.
+- Mathematical Modeling:
+Development of a mathematical delivery-cost equation considering various factors like distance, delivery type, and seasonality to understand the influence on delivery costs.
+- Data Visualization:
+Utilizing libraries such as Matplotlib and Seaborn, you created various visualizations, including scatter plots, histograms, and heatmaps to uncover patterns and insights in the data.
+- Statistical Analysis:
+Conducting correlation analysis to understand the relationships between different variables, particularly how they affect delivery costs.
+Linear regression analysis to identify significant predictors of delivery charges and their impact.
+- Geospatial Analysis:
+Analysis of customer locations in relation to warehouse locations, including visualization of customer distribution and delivery radius.
+- Feature Engineering:
+Creation of new features, such as one-hot encoding for categorical variables like seasons and delivery types, to facilitate more in-depth analysis.
+- Data Aggregation and Analysis:
+Aggregating data to derive insights into customer distribution, order quantities, and warehouse effectiveness.
+- Insights and Recommendations:
+Drawing actionable insights from the analysis, such as potential for warehouse consolidation, delivery area optimization, and customer segmentation strategies.
+Providing business recommendations based on data-driven findings to optimize delivery strategies and improve efficiency.
 
 ## Business Objectives
 
