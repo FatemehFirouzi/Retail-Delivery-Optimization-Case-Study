@@ -79,9 +79,9 @@ Correlation Analysis: I found that delivery cost is strongly correlated with fac
 
 Data Visualization: Scatter plots revealed that there is a relationship between delivery cost and the distance to the nearest warehouse. However, the impact of distance is relatively weak, with only 4% of the variance in delivery cost explained by this factor.
 
-Outlier Handling: We addressed outliers in the 'distance_to_nearest_warehouse' column by replacing them with the closest warehouse's distance, ensuring that extreme values do not skew the analysis.
+Outlier Handling: I addressed outliers in the 'distance_to_nearest_warehouse' column by replacing them with the closest warehouse's distance, ensuring that extreme values do not skew the analysis.
 
-Warehouse Network: We visualized customer locations and discovered that all three warehouses are concentrated in the same area, indicating potential inefficiencies in the warehouse network.
+Warehouse Network: I visualized customer locations and discovered that all three warehouses are concentrated in the same area, indicating potential inefficiencies in the warehouse network.
 
 Based on these findings, I offer the following actionable insights:
 
